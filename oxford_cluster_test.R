@@ -1,4 +1,4 @@
 
 vec<- 5:10
 
-vec
+print(vec)
